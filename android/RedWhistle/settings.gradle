@@ -1,0 +1,2 @@
+rootProject.name='Red Whistle'
+include ':app'
